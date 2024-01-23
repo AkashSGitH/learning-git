@@ -12,7 +12,15 @@ git restore <filename>
 
 git commit -m "desired message"
 
-// Amend commits
+// Amend(modify) commits
+
+git commit --amend -m "desired message"
+
+// GitHub
+
+git remote add origin https://github.com/AkashSGitH/learning-git.git
+
+git branch -M main
 
 
 
