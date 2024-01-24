@@ -22,5 +22,7 @@ git remote add origin https://github.com/AkashSGitH/learning-git.git
 
 git branch -M main
 
+git stash
 
+git stash pop
 
