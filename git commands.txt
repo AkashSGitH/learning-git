@@ -26,3 +26,18 @@ git stash
 
 git stash pop
 
+git push origin main
+git push <foldername> <branch_name>
+git branch <new branch name> feature(let's say)
+
+git checkout feature<new branch name> // head now points to <new branch> and any new commit will be added under this branch.
+
+git merge feature // hey my feature/module is ready to be added plz add into main code/branch.
+
+// fork means to create a copy of the actual project into our own account, this prevents anyone from directly making changes to our projects, if one feels to make changes they can put changes in their account. 
+
+git clone https://github.com/AkashSGitH/learning-git.git
+
+// 41:10
+
+pull request is made by an individual, requesting to merge the code with the main code/branch
