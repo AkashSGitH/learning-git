@@ -39,3 +39,5 @@ git merge feature // hey my feature/module is ready to be added plz add into mai
 git clone https://github.com/AkashSGitH/learning-git.git
 
 // 41:10
+
+pull request is made by an individual, requesting to merge the code with the main code/branch
